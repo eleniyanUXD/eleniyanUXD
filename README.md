@@ -1,52 +1,35 @@
 # Hi, I'm Fuad Abdulrauf 👋
 
-### 📱 Mobile App Developer | Flutter | UX Designer
+📱 **Flutter Mobile App Developer | Dart**
 
-I'm a **Mobile App Developer specializing in Flutter** and a **UX Designer** passionate about turning ideas into useful, intuitive, and engaging digital products.
+I'm a mobile app developer focused on building useful, user-friendly applications with Flutter and Dart. I enjoy turning ideas into working products and continuously improving my development skills.
 
-I enjoy combining **UX design and mobile development** to create products that are both visually appealing and easy to use.
+### 🛠️ Skills & Technologies
+- **Mobile Development:** Flutter, Dart
+- **Backend:** Supabase, Firebase, Cloud Firestore, Firebase Authentication
+- **Tools:** Git, GitHub, VS Code, Android Studio
+- **APIs:** REST API integration
 
-##  Skills & Technologies
+### 🚀 Featured Projects
 
-* **Mobile Development:** Flutter, Dart
-* **Backend:** Firebase, Cloud Firestore, Firebase Authentication
-* **Design:** Figma, UX/UI Design
-* **Tools:** Git, GitHub, VS Code, Android Studio
+**Smart Utility Toolkit**
+A Flutter app bringing everyday tools together, including currency conversion, unit conversion, notes, and AI assistance.
 
-##  Featured Project
+**ExpressFeast**
+A Flutter food delivery app featuring authentication, food browsing, favorites, cart, checkout, address selection, and order tracking.
 
-###  ExpressFeast
+**Expense Tracker**
+A Flutter app for tracking income, expenses, balances, and recurring transactions using Hive local storage.
 
-A Flutter-based food delivery application designed to make discovering restaurants, ordering food, and tracking deliveries simple and convenient.
+### 🌱 Currently
+I'm improving my Flutter development skills, exploring state management with Provider, and building practical mobile applications.
 
-**Key features:**
+### 💼 Open to Opportunities
+Open to Flutter internships, entry-level roles, full-time positions, and freelance projects.
 
-*  User authentication
-*  Food search
-*  Restaurant & food browsing
-*  Favorites
-*  Cart & checkout
-*  Payment interface
-*  Address selection & maps
-*  Order tracking
+### 📫 Let's Connect
+- **Email:** hassanfuad05@gmail.com
+- **X:** [@Eleniyan006](https://x.com/Eleniyan006)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abdulrauf-fuad-670b24192)
 
-**Built with:** Flutter • Dart • Firebase • Firestore • OpenStreetMap
-
-##  Currently
-
-I'm focused on building more Flutter applications, improving my development skills, and combining my UX design background with mobile development.
-
-##  Open to Opportunities
-
-I'm open to **internships, entry-level roles, full-time positions, and freelance/project-based opportunities**.
-
-##  Let's Connect
-
-*  [LinkedIn](https://www.linkedin.com/in/abdulrauf-fuad-670b24192/)
-*  [X](https://x.com/Eleniyan006)
-*  hassanfuad05@gmail.com
-
----
-
-###  Turning ideas into useful products.
-
+*Turning ideas into useful mobile apps.*
